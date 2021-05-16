@@ -1,0 +1,7 @@
+Scenario
+We want to write a customer management system for Starbucks and Nero coffee companies.
+
+* Both companies want to register their customers in the database.
+* Starbuck necessarily requires mernis verification when registering customers.
+* Nero does not want such a thing when registering its customers.
+* Starcuks wants to give stars for every coffee purchase for customers.
